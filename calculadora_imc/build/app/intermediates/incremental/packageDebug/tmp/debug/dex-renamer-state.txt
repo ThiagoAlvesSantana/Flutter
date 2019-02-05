@@ -1,0 +1,4 @@
+#Mon Jan 21 10:29:33 BRST 2019
+base.0=/Users/thiagoalvesdesantana/Documents/Estudo/flutter/calculadora_imc/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
