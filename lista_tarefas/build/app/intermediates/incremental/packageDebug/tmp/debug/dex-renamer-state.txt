@@ -1,0 +1,4 @@
+#Thu Jan 31 11:30:28 BRST 2019
+base.0=/Users/thiagoalvesdesantana/Documents/Estudo/flutter/lista_tarefas/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
